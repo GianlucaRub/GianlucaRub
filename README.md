@@ -35,7 +35,7 @@ I'm Gianluca Ruberto and I'm student of the double degree program in Data Scienc
 
 
 :loudspeaker: **Contacts:**
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gianluca-ruberto-152196174/)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gianluca-ruberto/)
 - `gianluca.ruberto@mail.polimi.it`
 
 
