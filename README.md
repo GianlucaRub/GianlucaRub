@@ -30,6 +30,7 @@ I'm Gianluca Ruberto and I'm student of the double degree program in Data Scienc
 :pushpin: **Projects:**
 - [Time Series Forecasting](https://github.com/GianlucaRub/Time-Series-Forecasting)
 - [Leaves Images Classificator](https://github.com/GianlucaRub/Leaves-Image-Classificator)
+- [Data Bases 2](https://github.com/GianlucaRub/Data-Bases-2-Project)
 - [Digital Logic Design](https://github.com/GianlucaRub/Digital-Logic-Design-Project)
 - [Algorithms and Principles of Computer Science](https://github.com/GianlucaRub/API-Project-2020)
 
