@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## Hi there 👋
 
 
-I'm Gianluca Ruberto and I'm student of the double degree program in Data Science offered by EIT Digital. I'm currently attending lessons in Politecnico di Milano and the next semester I will study at KTH. I am very intrested in Data Science and Big Data topics.
+I'm Gianluca Ruberto and I'm student of the double degree program in Data Science offered by EIT Digital. I completed my first year at Politecnico di Milano and I'm currently attending lessons at KTH Royal Institute of Technology. I am very intrested in Data Science and Big Data topics.
 
 :mortar_board: **Education:**
 - Master of Science student in Data Science, Innovation and Entrepreneurship at `EIT Digital`
