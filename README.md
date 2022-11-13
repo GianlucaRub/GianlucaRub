@@ -46,4 +46,4 @@ I'm Gianluca Ruberto and I'm student of the double degree program in Data Scienc
 - 🌱 I’m currently learning how to use data visualization tools on coursera
 - 🔭 I am very interested in Time Series
 - :musical_note: I like singer songwriter italian music
-- :running: I do a lot of sport
+- :running: I read a lot
