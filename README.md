@@ -28,6 +28,7 @@ I'm Gianluca Ruberto and I'm student of the double degree program in Data Scienc
 - Bachelor of Science in Engineering of Computing Systems at `Politecnico di Milano`
 
 :pushpin: **Projects:**
+- [Scalable Machine Learning and Deep Learning](https://github.com/GianlucaRub/Scalable-Machine-Learning-and-Deep-Learning)
 - [Data Mining](https://github.com/GianlucaRub/Data-Mining)
 - [Data Intensive Computing](https://github.com/GianlucaRub/Data-Intensive-Computing-Project)
 - [Time Series Forecasting](https://github.com/GianlucaRub/Time-Series-Forecasting)
