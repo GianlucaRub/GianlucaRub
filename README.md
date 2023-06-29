@@ -19,7 +19,12 @@ Here are some ideas to get you started:
 ## Hi there 👋
 
 
-I'm Gianluca Ruberto and I'm student of the double degree program in Data Science offered by EIT Digital. I completed my first year at Politecnico di Milano and I'm currently attending lessons at KTH Royal Institute of Technology. I am very intrested in Data Science and Big Data topics.
+I'm Gianluca Ruberto and I'm a Business Analyst Intern at Amazon! I have been a student at Politecnico di Milano and KTH Royal Institute of Technology.
+
+💻 **Work Experience**
+* 🌊  &nbsp; Business Analyst Intern @ [Amazon](https://www.amazon.com/)
+* 🏥  &nbsp; Data Engineer @ [Jakala](https://www.jakala.com/)
+* 🚀  &nbsp; Master Thesis Student @ [RISE](https://www.ri.se/en)
 
 :mortar_board: **Education:**
 - Master of Science student in Data Science, Innovation and Entrepreneurship at `EIT Digital`
@@ -46,6 +51,6 @@ I'm Gianluca Ruberto and I'm student of the double degree program in Data Scienc
 :boy: **About me:**
 
 - 🌱 I’m currently learning how to use data visualization tools on coursera
-- 🔭 I am very interested in Time Series
+- 🔭 I am very interested in appling Machine Learning to get Business Insights
 - :musical_note: I like singer songwriter italian music
 - :running: I read a lot
