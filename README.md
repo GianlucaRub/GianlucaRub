@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## Hi there 👋
 
 
-I'm Gianluca Ruberto and I'm a Data Scientist at UBS! I have been a student at Politecnico di Milano and KTH Royal Institute of Technology.
+I'm Gianluca Ruberto and I'm a Data Scientist at UBS! I have previously worked at Amazon as Business Analyst intern. I have been a student at Politecnico di Milano and KTH Royal Institute of Technology.
 
 💻 **Work Experience**
 * ⚡  &nbsp; Data Scientist @ [UBS](https://www.ubs.com/)
