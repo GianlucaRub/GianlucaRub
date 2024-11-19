@@ -19,9 +19,10 @@ Here are some ideas to get you started:
 ## Hi there 👋
 
 
-I'm Gianluca Ruberto and I'm a Business Analyst Intern at Amazon! I have been a student at Politecnico di Milano and KTH Royal Institute of Technology.
+I'm Gianluca Ruberto and I'm a Data Scientist at UBS! I have been a student at Politecnico di Milano and KTH Royal Institute of Technology.
 
 💻 **Work Experience**
+* ⚡  &nbsp; Data Scientist @ [UBS](https://www.ubs.com/)
 * 🌊  &nbsp; Business Analyst Intern @ [Amazon](https://www.amazon.com/)
 * 🏥  &nbsp; Data Engineer @ [Jakala](https://www.jakala.com/)
 * 🚀  &nbsp; Master Thesis Student @ [RISE](https://www.ri.se/en)
@@ -50,7 +51,7 @@ I'm Gianluca Ruberto and I'm a Business Analyst Intern at Amazon! I have been a 
 
 :boy: **About me:**
 
-- 🌱 I’m currently learning how to use data visualization tools on coursera
-- 🔭 I am very interested in appling Machine Learning to get Business Insights
+- 🌱 I’m currently learning full stack development on Coursera
+- 🔭 I would like to be a Machine Learning Engineer in the future
 - :musical_note: I like singer songwriter italian music
 - :running: I read a lot
