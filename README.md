@@ -1,4 +1,3 @@
-
 <!--
 ### Hi there 👋
 
@@ -18,22 +17,24 @@ Here are some ideas to get you started:
 
 ## Hi there 👋
 
-
-I'm Gianluca Ruberto and I'm a Data Scientist at UBS! I have previously worked at Amazon as Business Analyst intern. I have been a student at Politecnico di Milano and KTH Royal Institute of Technology.
+I'm Gianluca Ruberto and I'm a Quantitative Software Engineer at UBS! I have previously worked at Amazon as Business Analyst intern. I have been a student at Politecnico di Milano and KTH Royal Institute of Technology.
 
 💻 **Work Experience**
-* ⚡  &nbsp; Data Scientist @ [UBS](https://www.ubs.com/)
-* 🌊  &nbsp; Business Analyst Intern @ [Amazon](https://www.amazon.com/)
-* 🏥  &nbsp; Data Engineer @ [Jakala](https://www.jakala.com/)
-* 🚀  &nbsp; Master Thesis Student @ [RISE](https://www.ri.se/en)
+
+- ⚡ &nbsp; Quantitative Software Engineer @ [UBS](https://www.ubs.com/)
+- 🌊 &nbsp; Business Analyst Intern @ [Amazon](https://www.amazon.com/)
+- 🏥 &nbsp; Data Engineer @ [Jakala](https://www.jakala.com/)
+- 🚀 &nbsp; Master Thesis Student @ [RISE](https://www.ri.se/en)
 
 :mortar_board: **Education:**
+
 - Master of Science student in Data Science, Innovation and Entrepreneurship at `EIT Digital`
 - Master of Science student in Computer Science and Engineering at `Politecnico di Milano`
 - Master of Science student in ICT Innovation, Distributed Systems & Data Mining for Big Data at `KTH Royal Institute of Technology`
 - Bachelor of Science in Engineering of Computing Systems at `Politecnico di Milano`
 
-:pushpin: **Projects:**
+:pushpin: **University Projects:**
+
 - [Scalable Machine Learning and Deep Learning](https://github.com/GianlucaRub/Scalable-Machine-Learning-and-Deep-Learning)
 - [Data Mining](https://github.com/GianlucaRub/Data-Mining)
 - [Data Intensive Computing](https://github.com/GianlucaRub/Data-Intensive-Computing-Project)
@@ -43,15 +44,14 @@ I'm Gianluca Ruberto and I'm a Data Scientist at UBS! I have previously worked a
 - [Digital Logic Design](https://github.com/GianlucaRub/Digital-Logic-Design-Project)
 - [Algorithms and Principles of Computer Science](https://github.com/GianlucaRub/API-Project-2020)
 
-
 :loudspeaker: **Contacts:**
+
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gianluca-ruberto/)
 - `gianluca.ruberto@mail.polimi.it`
 
-
 :boy: **About me:**
 
-- 🌱 I’m currently learning full stack development on Coursera
-- 🔭 I would like to be a Machine Learning Engineer in the future
+- 🌱 I’m currently improving my Quantitative Finance knowledge
+- 🔭 I would like to be a Quantitative Research Engineer in the future
 - :musical_note: I like singer songwriter italian music
-- :running: I read a lot
+- :running: I enjoy reading
